@@ -3,10 +3,10 @@
 </div>
 
 <div>
-    <div style="width: 50%;">
+    <div style="width: 50%; display: inline-block;">
         ✍️ Hot off the press
     </div>
-    <div style="width: 50%;">
+    <div style="width: 50%; display: inline-block;">
         ✍️ Hot off the press
     </div>
 </div>
