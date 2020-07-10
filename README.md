@@ -4,22 +4,9 @@
 
 <div>
     <div style="width: 50%;">
-        ### ✍️ Hot off the press
-
-        - [How to Think Like a Roman Emperor (📚 Review)](https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor)
-        - [Failures](https://anthonymorris.dev/failures)
-        - [Bard (Project)](https://anthonymorris.dev/projects/bard)
-        - [My Life in Weeks](https://anthonymorris.dev/life)
-        - [The Mom Test (📚 Review)](https://anthonymorris.dev/books/the-mom-test)
+        ✍️ Hot off the press
     </div>
-
     <div style="width: 50%;">
-        ### ✍️ Hot off the press
-
-        - [How to Think Like a Roman Emperor (📚 Review)](https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor)
-        - [Failures](https://anthonymorris.dev/failures)
-        - [Bard (Project)](https://anthonymorris.dev/projects/bard)
-        - [My Life in Weeks](https://anthonymorris.dev/life)
-        - [The Mom Test (📚 Review)](https://anthonymorris.dev/books/the-mom-test)
+        ✍️ Hot off the press
     </div>
 </div>
