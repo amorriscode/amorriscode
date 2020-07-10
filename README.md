@@ -2,7 +2,14 @@
     <img width="200" src="https://user-images.githubusercontent.com/16005567/87161721-c5961480-c279-11ea-927c-9171dd81f736.png">
 </div>
 
-### Hey there, I'm [Anthony](https://anthonymorris.dev)!
+<h3 align="center">Hey there! I'm Anthony. 👋</h3>
+
+<p align="center">
+  <a href="https://anthonymorris.dev">🏡</a> |
+  <a href="https://twitter.com/amorriscode">🐦</a>
+</p>
+
+---
 
 I like building things with code. Useless things, open source things, and things that have a positive impact on the world.
 
