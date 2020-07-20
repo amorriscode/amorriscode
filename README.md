@@ -15,8 +15,8 @@ My name is Anthony. I like building things with code. Useless things, open sourc
 
 ### ✍️ Hot off the press
 
+- [FIGJAM (TIL)](https://anthonymorris.dev/til/figjam)
+- [Electronics Etymology (TIL)](https://anthonymorris.dev/til/electronics-etymology)
 - [Not Top Talent (Failure)](https://anthonymorris.dev/failures/not-top-talent)
 - [How to Think Like a Roman Emperor (📚 Review)](https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor)
 - [Failures](https://anthonymorris.dev/failures)
-- [Bard (Project)](https://anthonymorris.dev/projects/bard)
-- [My Life in Weeks](https://anthonymorris.dev/life)
