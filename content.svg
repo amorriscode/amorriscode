@@ -1,0 +1,133 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica,
+            Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          margin: 0;
+          height: 400px;
+          padding: 16px;
+        }
+
+        header {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          background-color: #21d4fd;
+          background-image: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
+          border-radius: 16px;
+          padding: 16px;
+          width: 75%;
+          color: white;
+          text-align: center;
+          font-weight: 600;
+        }
+
+        a {
+          color: #b721ff;
+          text-decoration: none;
+        }
+
+        a:hover, a:visited {
+        text-decoration: underline;
+        }
+
+        header div {
+          font-size: 20px;
+          margin-bottom: 16px;
+        }
+
+        .memoji {
+          height: 250px;
+          margin-bottom: -19px;
+        }
+
+        .box-container {
+          display: flex;
+          width: 100%;
+        }
+
+        .box {
+          margin: 16px;
+          padding: 16px;
+          background-color: #fff;
+          border: 1px solid #e1e4e8;
+          border-radius: 6px;
+          width: 50%;
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+          font-size: 14px;
+        }
+
+        .box h2 {
+          margin-top: 0;
+          font-size: 15px;
+          color: #0366d6;
+          font-weight: 600;
+        }
+
+        .box h3 {
+          margin-bottom: 0;
+        }
+
+        .box .subtitle {
+          font-size: 12px;
+          color: #586069;
+        }
+
+        .box ul {
+          margin: 0;
+          padding: 16px;
+        }
+      </style>
+      <div class="container">
+        <header>
+          <h1>Howdy!</h1>
+
+          <div>
+            My name is Anthony. I like building things with code. Useless things,
+            open source things, and things that have a positive impact on the world.
+          </div>
+
+          <img
+            class="memoji"
+            src="https://user-images.githubusercontent.com/16005567/88074571-6fa05700-cb2c-11ea-8d8b-bd59578fee6d.png"
+          />
+        </header>
+
+        <div class="box-container">
+          <div class="box">
+            <h2>Hot off the press</h2>
+            <div class="subtitle">Recent additions to my website.</div>
+
+            <ul>
+              <li><a href="https://anthonymorris.dev/til/figjam">FIGJAM (TIL)</a></li>
+              <li><a href="https://anthonymorris.dev/til/electronics-etymology">Electronics Etymology (TIL)</a></li>
+              <li><a href="https://anthonymorris.dev/failures/not-top-talent">Not Top Talent (Failure)</a></li>
+              <li><a href="https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor">How to Think Like a Roman Emperor (Book Review)</a></li>
+              <li><a href="https://anthonymorris.dev/failures">Failures</a></l1>
+            </ul>
+          </div>
+          <div class="box">
+            <h2>Latest Reads</h2>
+            <div class="subtitle">
+              Books I've been enjoying lately.
+            </div>
+
+            <ul>
+              <li><a href="https://www.goodreads.com/book/show/44770129-ultralearning">Ultralearning (Reading)</a></li>
+              <li><a href="https://www.goodreads.com/book/show/42046112-recursion">Recursion (Reading)</a></li>
+              <li><a href="https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor">How To Think Like A Roman Emperor (★★★★★)</a></li>
+              <li><a href="https://anthonymorris.dev/books/the-mom-test">The Mom Test (★★★★★)</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+	</foreignObject>
+</svg>
