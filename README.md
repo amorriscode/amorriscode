@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/amorriscode/amorriscode/blame/master/content.svg">
-		<img src="content.svg" width="800" height="400">
+		<img src="content.svg" width="800" height="800">
 	</a>
 	<br>
 </div>

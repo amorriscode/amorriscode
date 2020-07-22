@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -33,7 +33,7 @@
         }
 
         a:hover, a:visited {
-        text-decoration: underline;
+          text-decoration: underline;
         }
 
         header div {
@@ -43,7 +43,9 @@
 
         .memoji {
           height: 250px;
+          width: 100%;
           margin-bottom: -19px;
+          background-image: https://user-images.githubusercontent.com/16005567/88074571-6fa05700-cb2c-11ea-8d8b-bd59578fee6d.png;
         }
 
         .box-container {
@@ -94,24 +96,29 @@
             open source things, and things that have a positive impact on the world.
           </div>
 
-          <img class="memoji" src="https://user-images.githubusercontent.com/16005567/88074571-6fa05700-cb2c-11ea-8d8b-bd59578fee6d.png" />
+          <div class="memoji"></div>
         </header>
 
         <div class="box-container">
           <div class="box">
-            <h2>Hot off the press</h2>
-            <div class="subtitle">Recent additions to my website.</div>
+            <h2>✍️ Hot off the press</h2>
+
+            <div class="subtitle">
+              Recent additions to my website.
+            </div>
 
             <ul>
               <li><a href="https://anthonymorris.dev/til/figjam">FIGJAM (TIL)</a></li>
               <li><a href="https://anthonymorris.dev/til/electronics-etymology">Electronics Etymology (TIL)</a></li>
               <li><a href="https://anthonymorris.dev/failures/not-top-talent">Not Top Talent (Failure)</a></li>
-              <li><a href="https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor">How to Think Like a Roman Emperor (Book Review)</a></li>
+              <li><a href="https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor">How to Think Like a Roman Emperor (📚 Review)</a></li>
               <li><a href="https://anthonymorris.dev/failures">Failures</a></li>
             </ul>
           </div>
+
           <div class="box">
-            <h2>Latest Reads</h2>
+            <h2>📖 Latest Reads</h2>
+
             <div class="subtitle">
               Books I've been enjoying lately.
             </div>
