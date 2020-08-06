@@ -89,39 +89,6 @@
             open source things, and things that have a positive impact on the world.
           </div>
         </header>
-
-        <div class="box-container">
-          <div class="box">
-            <h2>✍️  Hot off the press</h2>
-
-            <div class="subtitle">
-              Recent additions to my website.
-            </div>
-
-            <ul>
-              <li><a href="https://anthonymorris.dev/words/you-are-a-machine">You, The Machine (✍️)</a></li>
-              <li><a href="https://anthonymorris.dev/til/figjam">FIGJAM (TIL)</a></li>
-              <li><a href="https://anthonymorris.dev/til/electronics-etymology">Electronics Etymology (TIL)</a></li>
-              <li><a href="https://anthonymorris.dev/failures/not-top-talent">Not Top Talent (Failure)</a></li>
-              <li><a href="https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor">How to Think Like a Roman Emperor (📚 Review)</a></li>
-            </ul>
-          </div>
-
-          <div class="box">
-            <h2>📖  Latest Reads</h2>
-
-            <div class="subtitle">
-              Books I've been enjoying lately.
-            </div>
-
-            <ul>
-              <li><a href="https://www.goodreads.com/book/show/44770129-ultralearning">Ultralearning (Reading)</a></li>
-              <li><a href="https://www.goodreads.com/book/show/42046112-recursion">Recursion (Reading)</a></li>
-              <li><a href="https://anthonymorris.dev/books/how-to-think-like-a-roman-emperor">How To Think Like A Roman Emperor (★★★★★)</a></li>
-              <li><a href="https://anthonymorris.dev/books/the-mom-test">The Mom Test (★★★★★)</a></li>
-            </ul>
-          </div>
-        </div>
       </div>
     </div>
 	</foreignObject>
