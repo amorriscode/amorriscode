@@ -6,3 +6,8 @@
 	</a>
 	<br>
 </div>
+
+# Now
+
+- I'm building [12 products in 12 months](https://anthonymorris.dev/words/12-products-12-months)
+- I'm empowering learners around the world @ [Monthly](https://monthly.com/)
