@@ -10,4 +10,4 @@
 # Now
 
 - Going through an existential crisis
-- I'm empowering learners around the world @ [Monthly](https://monthly.com/)
+- I'm empowering learners around the world @ [Studio](https://studio.com/)
