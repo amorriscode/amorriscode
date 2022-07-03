@@ -9,5 +9,5 @@
 
 # Now
 
-- Going through an existential crisis
-- I'm empowering learners around the world @ [Studio](https://studio.com/)
+- Figuring out what to work on next
+- Drinking through the firehose at @stripe
