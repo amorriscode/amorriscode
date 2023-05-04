@@ -9,5 +9,5 @@
 
 # Now
 
-- Figuring out what to work on next
+- Improving the job hunt process with [Jobsend](https://jobsend.fyi)
 - Drinking through the firehose at @stripe
