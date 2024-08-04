@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://filmgrab.files.wordpress.com/2014/07/0951.jpg">
+      <img src="https://cataas.com/cat/gif">
 </div>
 
 # Now
