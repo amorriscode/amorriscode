@@ -4,5 +4,5 @@
 
 # Now
 
-- New side project tbd
-- Thinking about developer experience + AI @stripe
+- New side project coming soon 👀
+- Building agents at /dev/agents
