@@ -4,5 +4,5 @@
 
 # Now
 
-- New side project coming soon 👀
-- Building agents at /dev/agents
+- Working on Claude Code at Anthropic
+- Keeping track of books on https://ezrasbookshelf.com
